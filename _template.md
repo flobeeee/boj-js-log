@@ -13,6 +13,7 @@
 ## 코드
 
 ```js
+const input = require('fs').readFileSync('/dev/stdin', 'utf8').trim().split('\n');
 
 ```
 
